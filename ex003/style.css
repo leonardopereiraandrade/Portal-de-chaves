@@ -1,0 +1,30 @@
+div{
+
+border: 1px solid black;
+height: 10px;
+
+}
+#header{
+position: relative;
+height: 100px;
+
+}
+
+#menu {
+position:sticky ;
+top: 0;
+
+}
+#conteudo{
+height: 100px;
+position: relative;
+
+}
+
+#fotos{position: absolute;
+    height: 50px;
+    width: 50px;
+    left: 0px;
+
+
+}
